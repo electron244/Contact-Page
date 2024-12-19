@@ -1,0 +1,23 @@
+.navigation{
+    display: flex;
+    height: 72px;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 91px;
+    /* border: 2px solid green; */
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    width: 231px;
+    height: 24px;
+    cursor: pointer;
+}
+.logo{
+    height: 72px;
+}

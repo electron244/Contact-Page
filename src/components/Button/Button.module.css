@@ -1,0 +1,32 @@
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    gap: 10px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+.btn2{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 10px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 472px;
+    gap: 10px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid black;
+    cursor: pointer;
+}

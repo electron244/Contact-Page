@@ -1,0 +1,59 @@
+.button {
+  display: flex;
+  width: 472px;
+  gap: 32px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 440px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    width: 50%;
+
+}
+
+.input_container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  width: 440px;
+  gap: 20px;
+  position: relative;
+}
+.input_container > input {
+  width: 90%;
+  height: 40px;
+  padding: 0px 8px;
+}
+.input_container > textarea {
+  width: 90%;
+  height: 120px;
+  padding: 8px 8px;
+  resize: none;
+}
+.input_container > label{
+    font-size: 14px;
+    position: absolute;
+    top: -10px;
+    left: 25px;
+    background-color: white;
+    padding: 0px 4px;
+    font-weight: 600;
+}
+.photo{
+    width: 550px;
+}
+.box{
+    display: flex;
+    /* border: 2px solid black; */
+}
+

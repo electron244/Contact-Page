@@ -1,0 +1,16 @@
+.heading{
+    font-weight: 800;
+    font-size: 48px;
+}
+.contact{
+    width:975px;
+    margin-top: 80px ;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* border: 2px solid red; */
+}
+.text{
+    font-weight: 600;
+    color: #5A5959;
+}
